@@ -1,4 +1,4 @@
-name: Build LibreTV-YUAN-YUAN image
+name: Build LibreTV-YUAN image
 
 on:
   workflow_run:
